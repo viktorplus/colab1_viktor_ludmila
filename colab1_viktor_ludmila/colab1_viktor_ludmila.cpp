@@ -4,12 +4,12 @@ using namespace std;
 
 void printTitle()
 {
-    cout << "=== ТАВЕРНА ===" << endl;
+    cout << "=== ТАВЕРНА ЗОЛОТИЙ ДРАКОН ===" << endl;
 }
 
 void printGreeting()
 {
-    // TODO Collaborator
+    cout << "=== HEEEELLLLOOOOOOOO!!!!! ===" << endl;
 }
 
 void printMenu()
