@@ -4,7 +4,7 @@ using namespace std;
 
 void printTitle()
 {
-    cout << "=== ТАВЕРНА ===" << endl;
+	cout << "=== 'ЗОЛОТИЙ ДРАКОН' ===" << endl;
 }
 
 void printGreeting()
@@ -14,7 +14,11 @@ void printGreeting()
 
 void printMenu()
 {
-    // TODO Owner
+	cout << "Меню:" << endl;
+	cout << "1. Суп з драконячого м'яса - 150 грн" << endl;
+	cout << "2. Печене порося - 200 грн" << endl;
+	cout << "3. Ельфійський пиріг - 120 грн" << endl;
+
 }
 
 int main()
