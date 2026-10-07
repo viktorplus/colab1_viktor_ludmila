@@ -4,7 +4,6 @@ using namespace std;
 
 void printTitle()
 {
-	cout << "=== 'ЗОЛОТИЙ ДРАКОН' ===" << endl;
     cout << "=== ТАВЕРНА ЗОЛОТИЙ ДРАКОН ===" << endl;
 }
 
